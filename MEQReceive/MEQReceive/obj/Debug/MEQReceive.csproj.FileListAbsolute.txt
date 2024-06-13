@@ -1,0 +1,22 @@
+C:\Users\User\source\repos\MEQReceive\MEQReceive\bin\Debug\MEQReceive.exe.config
+C:\Users\User\source\repos\MEQReceive\MEQReceive\bin\Debug\MEQReceive.exe
+C:\Users\User\source\repos\MEQReceive\MEQReceive\bin\Debug\MEQReceive.pdb
+C:\Users\User\source\repos\MEQReceive\MEQReceive\obj\Debug\MEQReceive.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MEQReceive\MEQReceive\obj\Debug\MEQReceive.Form1.resources
+C:\Users\User\source\repos\MEQReceive\MEQReceive\obj\Debug\MEQReceive.Properties.Resources.resources
+C:\Users\User\source\repos\MEQReceive\MEQReceive\obj\Debug\MEQReceive.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MEQReceive\MEQReceive\obj\Debug\MEQReceive.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MEQReceive\MEQReceive\obj\Debug\MEQReceive.exe
+C:\Users\User\source\repos\MEQReceive\MEQReceive\obj\Debug\MEQReceive.pdb
+C:\Users\User\Desktop\PROG7311\ICE Tasks\ICE 3\MEQReceive\MEQReceive\MEQReceive\bin\Debug\MEQReceive.exe.config
+C:\Users\User\Desktop\PROG7311\ICE Tasks\ICE 3\MEQReceive\MEQReceive\MEQReceive\bin\Debug\MEQReceive.exe
+C:\Users\User\Desktop\PROG7311\ICE Tasks\ICE 3\MEQReceive\MEQReceive\MEQReceive\bin\Debug\MEQReceive.pdb
+C:\Users\User\Desktop\PROG7311\ICE Tasks\ICE 3\MEQReceive\MEQReceive\MEQReceive\obj\Debug\MEQReceive.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PROG7311\ICE Tasks\ICE 3\MEQReceive\MEQReceive\MEQReceive\obj\Debug\MEQReceive.Form1.resources
+C:\Users\User\Desktop\PROG7311\ICE Tasks\ICE 3\MEQReceive\MEQReceive\MEQReceive\obj\Debug\MEQReceive.Properties.Resources.resources
+C:\Users\User\Desktop\PROG7311\ICE Tasks\ICE 3\MEQReceive\MEQReceive\MEQReceive\obj\Debug\MEQReceive.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PROG7311\ICE Tasks\ICE 3\MEQReceive\MEQReceive\MEQReceive\obj\Debug\MEQReceive.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROG7311\ICE Tasks\ICE 3\MEQReceive\MEQReceive\MEQReceive\obj\Debug\MEQReceive.exe
+C:\Users\User\Desktop\PROG7311\ICE Tasks\ICE 3\MEQReceive\MEQReceive\MEQReceive\obj\Debug\MEQReceive.pdb
+C:\Users\User\Desktop\PROG7311\ICE Tasks\ICE 3\MEQReceive\MEQReceive\MEQReceive\obj\Debug\MEQapp.Form1.resources
+C:\Users\User\Desktop\PROG7311\ICE Tasks\ICE 3\MEQReceive\MEQReceive\MEQReceive\obj\Debug\MEQapp.Properties.Resources.resources
